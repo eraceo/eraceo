@@ -42,9 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraceo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
-## Projets
-
 <div align="center">
+<<<<<<< HEAD
   <a href="https://github.com/eraceo/APMlive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eraceo&repo=PROJET1&theme=default&hide_border=true" alt="Projet 1" />
   </a>
@@ -56,3 +55,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eraceo&color=blue&style=flat&label=Visiteurs" alt="Profile views" />
 </div>
+=======
+  <img src="https://komarev.com/ghpvc/?username=eraceo&color=blue&style=flat&label=Visiteurs" alt="Profile views" />
+</div>
+>>>>>>> 0120dc0429eccc1fbde4dfbd59514d159f976cb0
