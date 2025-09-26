@@ -1,4 +1,4 @@
-# [Votre Nom]
+# eraceo
 
 **Étudiant en Bachelor Sécurité Informatique**
 
@@ -35,31 +35,24 @@
 ## Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eraceo&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eraceo&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ## Projets
 
 <div align="center">
-  <a href="https://github.com/VOTRE_USERNAME/PROJET1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_USERNAME&repo=PROJET1&theme=default&hide_border=true" alt="Projet 1" />
+  <a href="https://github.com/eraceo/APMlive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eraceo&repo=PROJET1&theme=default&hide_border=true" alt="Projet 1" />
   </a>
-  <a href="https://github.com/VOTRE_USERNAME/PROJET2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VOTRE_USERNAME&repo=PROJET2&theme=default&hide_border=true" alt="Projet 2" />
+  <a href="https://github.com/eraceo/Hako">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eraceo&repo=PROJET2&theme=default&hide_border=true" alt="Projet 2" />
   </a>
 </div>
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:votre.email@example.com)
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blue&style=flat&label=Visiteurs" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=eraceo&color=blue&style=flat&label=Visiteurs" alt="Profile views" />
 </div>
